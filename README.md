@@ -1,2 +1,6 @@
 # Vehicle_Counting
-Vehicle counting is a computer vision–based process used to automatically detect, track, and count vehicles passing through a defined area in video footage or live camera feeds. It typically leverages image processing and machine learning techniques—such as background subtraction, object detection models (e.g., YOLO, SSD), and multi-object tracking
+Vehicle counting is a computer vision–based process used to automatically detect, track, and count vehicles passing through a defined area in video footage or live camera feeds. It typically leverages image processing and machine learning techniques—such as background subtraction, object detection models (e.g., YOLO, SSD), and multi-object tracking and multi-object tracking algorithms—to identify vehicles and increment counts as they cross virtual lines or regions of interest.
+
+The primary objective of vehicle counting is to generate accurate traffic flow data, including vehicle volume, direction of movement, and temporal patterns. This information is critical for applications such as traffic management, urban planning, congestion analysis, toll collection, and smart transportation systems. Compared to manual counting methods, automated vehicle counting offers higher accuracy, real-time insights, scalability, and reduced operational cost.
+
+In advanced implementations, vehicle counting systems can also classify vehicles (e.g., car, bus, truck, two-wheeler), operate under varying lighting and weather conditions, and integrate with dashboards or databases for reporting and decision support.
